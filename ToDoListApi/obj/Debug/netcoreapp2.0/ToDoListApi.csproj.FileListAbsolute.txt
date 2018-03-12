@@ -1,0 +1,11 @@
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\bin\Debug\netcoreapp2.0\ToDoListApi.deps.json
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\bin\Debug\netcoreapp2.0\ToDoListApi.runtimeconfig.json
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\bin\Debug\netcoreapp2.0\ToDoListApi.runtimeconfig.dev.json
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\bin\Debug\netcoreapp2.0\ToDoListApi.dll
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\bin\Debug\netcoreapp2.0\ToDoListApi.pdb
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\obj\Debug\netcoreapp2.0\ToDoListApi.csprojResolveAssemblyReference.cache
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\obj\Debug\netcoreapp2.0\ToDoListApi.csproj.CoreCompileInputs.cache
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\obj\Debug\netcoreapp2.0\ToDoListApi.AssemblyInfoInputs.cache
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\obj\Debug\netcoreapp2.0\ToDoListApi.AssemblyInfo.cs
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\obj\Debug\netcoreapp2.0\ToDoListApi.dll
+C:\Users\SASMIT_DAS\source\repos\ToDoListApi\ToDoListApi\obj\Debug\netcoreapp2.0\ToDoListApi.pdb
